@@ -8,20 +8,15 @@ Computer Engineering student passionate about software development, cybersecurit
 - Learning more about cybersecurity and networking
 
 ## 🛠️ Tech Stack
-- Python
-- Java
-- C++
+- Python            - Cisco Packet Tracer
+- Java              - Git & GitHub
+- C++               - SQL
 - Flutter
-- SQL
-- Git & GitHub
-- Cisco Packet Tracer
 
 ## 📚 Interests
-- Software Development
-- Cybersecurity
+- Software Development      - Mobile App Development
+- Cybersecurity             - Networking
 - AI & Automation
-- Networking
-- Mobile App Development
 
 ## 📫 Reach Me
 - LinkedIn: www.linkedin.com/in/talal-al-bulushi
