@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Talal 👋
 
-<!--
-**V0ID-8/V0ID-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about software development, cybersecurity, networking, and building real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Improving my software development skills
+- Building Flutter and Python projects
+- Learning more about cybersecurity and networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Java
+- C++
+- Flutter
+- SQL
+- Git & GitHub
+- Cisco Packet Tracer
+
+## 📚 Interests
+- Software Development
+- Cybersecurity
+- AI & Automation
+- Networking
+- Mobile App Development
+
+## 📫 Reach Me
+- LinkedIn: www.linkedin.com/in/talal-al-bulushi
+- Email: talal.albulushi88@gmail.com
+
+## ⚡ Fun Fact
+I enjoy building projects that combine software and practical engineering concepts.
+Always learning, building, and improving through hands-on projects.
